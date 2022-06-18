@@ -41,14 +41,11 @@ header {
 
 header h1 {
     font-family: '8-bit';
-    font-size: 6em;
+    font-size: 10vw;
 
-    margin: 0px;
-    margin-bottom: 20px;
+    margin: 0px auto 20px auto;
 
     text-align: center;
-
-    width: 100%;
 }
 
 nav a {
